@@ -6,5 +6,5 @@ Happy Valentine
 - 3D heart turn around Y-axis
 - superellipsoid change params
 
-https://github.com/user-attachments/assets/70c9eb0e-d6ca-45d5-a082-e89d7549067a
+https://github.com/user-attachments/assets/1cee1aaf-d9c5-494a-8699-ae2befa02e01
 
